@@ -1,0 +1,30 @@
+  894  sudoa pt-get install git
+  895  sudo apt-get install git
+  896  git --version
+  897  c
+  898  mkdir krishna
+  899  cd krishna/
+  900  git init
+  901  git config --global user.name "sivachanikyamiriyala"
+  902  git config --global user.email sivachanikyamiriyala@gmail.com
+  903  git branch
+  904  git branch -a
+  905  git init
+  906  ll
+  907  cd .git/
+  908  ls
+  909  cd ..
+  910  touch a
+  911  git add .;git commit -m "A"
+  912  git log --oneline
+  913  git branch
+  914  git branch -a
+  915  git remote add origin https://github.com/sivachanikyamiriyala/januarypractice.git
+  916  git push
+  917  git push -u origin master
+  918  c
+  919  history
+  920  c
+  921  history | tail -15
+  922  history | tail -30
+  923  history | tail -30>file
